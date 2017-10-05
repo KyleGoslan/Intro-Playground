@@ -1,17 +1,14 @@
 import Foundation
-
-/*
- As a final task lets bring together everything we've looked at to create 
- a simple shopping basket that we can add a few items to.
+/*:
+ ### Challange
+ As a final task, bring together everything we've looked at so far. Create a simple `Basket` class to represent a shopping basket that we can add some items to (these can just be `Floats`).
  
- We'll create a 'Basket' class that will calculate the total price of everyhting in
- it and an array of items. 
+ The basket should be able to do a few things:
  
- You'll be able to add to the basket and empty it.
+ * Add item(s).
+ * Know how many items have been added.
+ * Know the total price.
+ * Empty the basket.
+ 
+ Tips: You only need **one** class to begin with (you can elaborate later with another). As always, solve things in the most simple way possible first.
 */
-
-//TODO: Create a few dummy items that we'll be able to add (these will just be price numbers).
-//TODO: Create your 'Basket' class.
-//TODO: Create an instance of your basket.
-//TODO: Add a few items.
-//TODO: Check the price.
