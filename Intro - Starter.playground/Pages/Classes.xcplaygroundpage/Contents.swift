@@ -5,7 +5,7 @@ import Foundation
  * Classes are blueprints for "objects".
  * Objects have "properties". These are their variables/constants.
  * Objects have "methods". Their functions.
- * Info: [The Swift Standard Library Reference](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html#//apple_ref/doc/uid/TP40014097-CH13-ID82)
+ * Info: [Swift Classes Reference](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html#//apple_ref/doc/uid/TP40014097-CH13-ID82)
 */
 
 //TODO: Create a simple class that represents a person. The person should have at least two properties, an age and a name. Also one function "haveBirthday" function that increases the persons age.
@@ -13,7 +13,7 @@ import Foundation
 /*:
  * We create a person "instance" similar to how we created other variables.
  * We can then access it's properties and methods by using the name of instance and then a period.
- * Info: [The Swift Standard Library Reference](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html#//apple_ref/doc/uid/TP40014097-CH13-ID82)
+ * Info: [Swift Classes Reference](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html#//apple_ref/doc/uid/TP40014097-CH13-ID82)
 */
 
 //TODO: Create an istance of your person object you created above.
@@ -23,6 +23,6 @@ import Foundation
 /*:
  ### Might be useful...
  * You may also find the following links useful:
- * Properties: [The Swift Standard Library Reference](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Properties.html#//apple_ref/doc/uid/TP40014097-CH14-ID254)
- * Methods: [The Swift Standard Library Reference](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Methods.html#//apple_ref/doc/uid/TP40014097-CH15-ID234)
+ * Properties: [Swift Properties Reference](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Properties.html#//apple_ref/doc/uid/TP40014097-CH14-ID254)
+ * Methods: [Swift Methods Reference](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Methods.html#//apple_ref/doc/uid/TP40014097-CH15-ID234)
 */
